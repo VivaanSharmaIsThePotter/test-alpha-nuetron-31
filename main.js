@@ -3,7 +3,7 @@ status = "";
 video = "";
 
 function preload() {
-    video = createVideo("cool_video.mp4");
+    video = createVideo("../cool_video.mp4");
     video.hide();
 }
 
